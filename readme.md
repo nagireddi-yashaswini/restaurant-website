@@ -1,9 +1,3 @@
-# Restoran - Restaurant Website Template - Restaurant Bootstrap 5 Template
-
-![Restoran](https://codewithshabbir.github.io/Restoran/assets/images/template-screenshot.png)
-
-Welcome to **Restoran**, a modern and responsive restaurant website template designed and developed using a combination of front-end languages, libraries, and frameworks. This template is perfect for creating professional restaurant websites that offer a sleek and user-friendly experience.
-
 ## 📂 Project Overview
 
 This template is designed to provide a complete solution for restaurant websites. It includes multiple sections such as the menu, about us, testimonials, gallery, and contact information. The template is fully responsive, ensuring that it looks great on all devices, from desktops to mobile phones.
@@ -48,10 +42,6 @@ Restoran/
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/codewithshabbir/Restoran.git
-   ```
 
 ## 📸 Image Credits
 
